@@ -1,1 +1,20 @@
-{}
+{
+  "user": {
+    "id": "asdasdasd",
+    "username": "MinKyung"
+  },
+  "pets": [
+    {
+      "id": 1,
+      "type": "DOG",
+      "name": "Minky",
+      "createdAt": "2022-01-01"
+    },
+    {
+      "id": 2,
+      "type": "CAT",
+      "name": "Minkus",
+      "createdAt": "2022-01-01"
+    }
+  ]
+}

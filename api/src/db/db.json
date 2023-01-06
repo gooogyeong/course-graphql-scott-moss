@@ -3,5 +3,104 @@
     "id": "jBWMVGjm50l6LGwepDoty",
     "username": "frontendmaster"
   },
-  "pet": []
+  "pet": [
+    {
+      "id": "IOitjzZl7to8OzgRZyG5p",
+      "createdAt": 1673002829242,
+      "name": "batman",
+      "type": "DOG",
+      "user": "jBWMVGjm50l6LGwepDoty"
+    },
+    {
+      "id": "o2n5HtIEMX7blvgO6-82X",
+      "createdAt": 1673003767971,
+      "name": "sdf",
+      "type": "DOG",
+      "user": "jBWMVGjm50l6LGwepDoty"
+    },
+    {
+      "id": "lxH28m802VoMgsqA-fSOf",
+      "createdAt": 1673003878324,
+      "name": "werwerwer",
+      "type": "CAT",
+      "user": "jBWMVGjm50l6LGwepDoty"
+    },
+    {
+      "id": "A7d5fFKWMN2QjoFVJiOqS",
+      "createdAt": 1673005584053,
+      "name": "batman",
+      "type": "DOG",
+      "user": "jBWMVGjm50l6LGwepDoty"
+    },
+    {
+      "id": "P4rkZpalERNdz68d_OwvZ",
+      "createdAt": 1673006725954,
+      "name": "A new cat!",
+      "type": "CAT",
+      "user": "jBWMVGjm50l6LGwepDoty"
+    },
+    {
+      "id": "1xZhm7-vC8jkjw2H4Ut9F",
+      "createdAt": 1673006795766,
+      "name": "asda",
+      "type": "DOG",
+      "user": "jBWMVGjm50l6LGwepDoty"
+    },
+    {
+      "id": "Vdb0cMyRmOsbFQndlFsO7",
+      "createdAt": 1673007019724,
+      "name": "newnewnew dog",
+      "type": "DOG",
+      "user": "jBWMVGjm50l6LGwepDoty"
+    },
+    {
+      "id": "Ek2t3ArgBgeJI2-bxVt24",
+      "createdAt": 1673007081491,
+      "name": "nowreallynewdog",
+      "type": "DOG",
+      "user": "jBWMVGjm50l6LGwepDoty"
+    },
+    {
+      "id": "VbA3OX7F8Qz_hhx6I6FNH",
+      "createdAt": 1673007097308,
+      "name": "진짜된다",
+      "type": "DOG",
+      "user": "jBWMVGjm50l6LGwepDoty"
+    },
+    {
+      "id": "-4qbnFi5OGnEe7wXNSBrj",
+      "createdAt": 1673007248179,
+      "name": "흠..",
+      "type": "DOG",
+      "user": "jBWMVGjm50l6LGwepDoty"
+    },
+    {
+      "id": "Gaa2Fg6fJ8MNS9adPhHm4",
+      "createdAt": 1673007277992,
+      "name": "알았다",
+      "type": "DOG",
+      "user": "jBWMVGjm50l6LGwepDoty"
+    },
+    {
+      "id": "wQhY_7E_VROdo_pk0z7NO",
+      "createdAt": 1673007297366,
+      "name": "진짜 아랏다",
+      "type": "DOG",
+      "user": "jBWMVGjm50l6LGwepDoty"
+    },
+    {
+      "id": "Bvq8I3xt3u0zci6sPlMeb",
+      "createdAt": 1673009582640,
+      "name": "carol",
+      "type": "CAT",
+      "user": "jBWMVGjm50l6LGwepDoty"
+    },
+    {
+      "id": "7MjwM8Z8_ALS6cXVDbvWQ",
+      "createdAt": 1673009625104,
+      "name": "carolina",
+      "type": "DOG",
+      "user": "jBWMVGjm50l6LGwepDoty"
+    }
+  ]
 }
